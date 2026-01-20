@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env / secrets
+.env
+.env.*
+.SECRETS
+secrets.*
+config.secret.*
+
+# OS noise
+.DS_Store
+Thumbs.db

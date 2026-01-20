@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  audio:
+    build: .
+    network_mode: host
+    devices:
+      - /dev/snd
+    group_add:
+      - audio

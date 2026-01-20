@@ -1,0 +1,6 @@
+vosk
+pvporcupine
+webrtcvad
+sounddevice
+websockets
+numpy
