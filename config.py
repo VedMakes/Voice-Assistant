@@ -7,4 +7,4 @@ SILENCE_TIMEOUT_MS = 1000
 
 WAKE_WORDS = ["jarvis"]
 
-VOSK_MODEL_PATH = "model/vosk-model-small-en-in-0.4/vosk-model-small-en-in-0.4"
+VOSK_MODEL_PATH = "model/vosk-model-hi-0.22/vosk-model-hi-0.22"

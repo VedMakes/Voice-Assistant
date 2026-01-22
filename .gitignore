@@ -14,3 +14,6 @@ config.secret.*
 # OS noise
 .DS_Store
 Thumbs.db
+.model
+/model/vosk-model-hi-0.22/vosk-model-hi-0.22
+/model/vosk-model-small-en-in-0.4/vosk-model-small-en-in-0.4
